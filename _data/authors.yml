@@ -12,7 +12,7 @@
 -
   id: someone
   name: Some Person
-  avatar: /profile-pic.jpg
+  avatar:avatar.jpg
   bio: this is some more information about the author.
   facebook: https://www.facebook.com/someone
   twitter: https://twitter.com/someone
